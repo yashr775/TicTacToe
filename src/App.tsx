@@ -1,11 +1,26 @@
-import "./App.css";
+import Box from "./components/Box";
 
 function App() {
   return (
-    <>
-      {" "}
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-    </>
+    <div className="bg-slate-900 h-screen w-screen pb-0.5">
+      <div className="pb-0.5">
+        <div className="flex justify-center ">
+          <Box />
+          <Box />
+          <Box />
+        </div>
+        <div className="flex justify-center">
+          <Box />
+          <Box />
+          <Box />
+        </div>
+        <div className="flex justify-center">
+          <Box />
+          <Box />
+          <Box />
+        </div>
+      </div>
+    </div>
   );
 }
 
