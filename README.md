@@ -11,4 +11,4 @@ In the starting
 ![tictactoe2](https://github.com/user-attachments/assets/ee913916-1a5f-43bf-85d1-6661fab406fa)
 
 After a player wins
-This is a two player game and the result is displayed in place of title and on clicking reset the board goes to initial state .
+This is a two player game and the result is displayed in place of title and on clicking reset the board goes to initial state .Enjoy
